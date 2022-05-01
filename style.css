@@ -1,0 +1,29 @@
+.greet {
+	font-family: Helvetica;
+	text-align: center;
+	font-color: black;
+	
+
+
+}
+h1.greet {
+	color: black;
+}
+
+.kyle {
+	display: inline-block;
+	list-style: none;
+	margin: 5px;
+ 	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+ 	text-decoration: none;
+	font-size: 17px;
+	background-color: #ddd;
+ 	color: black;
+    float: right;
+}
+.kyle ul {
+
+	text-decoration: none;
+}
